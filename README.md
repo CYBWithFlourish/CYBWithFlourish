@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Python, Flutter, Dart, and Kali**
 
 - 📫 How to reach me **project.samclak@gmail.com**
+ **+2347046104586**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
