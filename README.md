@@ -31,6 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybwithflourish&" alt="cybwithflourish" /></p>
 
-CYBWithFlourish's GitHub | Stats](https://stats.quine.sh/CYBWithFlourish/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
+[![CYBWithFlourish's GitHub | Stats](https://stats.quine.sh/CYBWithFlourish/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
 
 
