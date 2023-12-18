@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Flourish</h1> <img align="right" src="/images/icons8-santa-100.png" alt="cybwithflourish" height="35" width="45" />
+<h1 align="center">Hi 👋, I'm Flourish</h1> <img align="right" src="/images/icons8-santa-100.png" alt="cybwithflourish" height="50" width="45" />
 <h3 align="center">Am a student who's passionate about Cyber security</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cybwithflourish&label=Profile%20views&color=0e75b6&style=flat" alt="cybwithflourish" /> </p>
