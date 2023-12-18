@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cybwithflourish" height="30" width="40" /></a>
-<a href="https://twitter.com/0xcybflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xcybflourish" height="30" width="40" /></a>
-<a href="https://instagram.com/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cybwithflourish" height="30" width="40" /></a>
-<a href="https://medium.com/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="cybwithflourish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/CYBFlourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="CYBFlourish" height="35" width="45" /></a>
+<a href="https://instagram.com/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cybwithflourish" height="35" width="45" /></a>
+<a href="https://medium.com/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="cybwithflourish" height="35" width="45" /></a>
+<a href="https://dev.to/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cybwithflourish" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
