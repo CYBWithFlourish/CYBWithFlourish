@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/CYBFlourish" target="blank"><img align="center" src="/images/icons8-linkedin" alt="CYBFlourish" height="35" width="45" /></a>
+<a href="https://linkedin.com/in/CYBFlourish" target="blank"><img align="center" src="/images/icons8-linkedin.svg" alt="CYBFlourish" height="35" width="45" /></a>
 <a href="https://instagram.com/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cybwithflourish" height="35" width="45" /></a>
 <a href="https://medium.com/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="cybwithflourish" height="35" width="45" /></a>
 <a href="https://dev.to/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cybwithflourish" height="35" width="45" /></a>
