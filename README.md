@@ -17,13 +17,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/CYBFlourish" target="blank"><img align="center" src="/images/icons8-linkedin.svg" alt="CYBFlourish" height="35" width="45" /></a>
-<a href="https://instagram.com/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cybwithflourish" height="35" width="45" /></a>
-<a href="https://medium.com/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="cybwithflourish" height="35" width="45" /></a>
-<a href="https://dev.to/cybwithflourish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cybwithflourish" height="35" width="45" /></a>
+<a href="https://instagram.com/cybwithflourish" target="blank"><img align="center" src="/images/icons8-instagram.svg" alt="cybwithflourish" height="35" width="45" /></a>
+<a href="https://medium.com/cybwithflourish" target="blank"><img align="center" src="/images/icons8-medium.svg" alt="cybwithflourish" height="35" width="45" /></a>
+<a href="https://dev.to/cybwithflourish" target="blank"><img align="center" src="/images/icons8-dev.svg" alt="cybwithflourish" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/l75OEUJkPAk4/python.svg" alt="python" width="45" height="45"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/></a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a> </p>
+<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="/images/icons8-python.svg" alt="python" width="45" height="45"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="/images/icons8-flutter.svg" alt="flutter" width="45" height="45"/></a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="/images/icons8-dart.svg" alt="dart" width="45" height="45"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="/images/icons8-firebase.svg" alt="firebase" width="45" height="45"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybwithflourish&show_icons=true&locale=en&layout=compact" alt="cybwithflourish" /></p>
 
