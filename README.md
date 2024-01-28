@@ -11,7 +11,7 @@
 - 📫 How to reach me **project.samclak@gmail.com**
 
 ### Projects
-> [IP Sweeper Script]()
+> [IP Sweeper Script](https://github.com/CYBWithFlourish/IP-Sweeper-Script.git)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
