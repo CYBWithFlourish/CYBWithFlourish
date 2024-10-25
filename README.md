@@ -1,5 +1,5 @@
 <!--- <img align="right" src="/images/icons8-santa-100.png" alt="cybwithflourish" height="50" width="45" /> --->
-<h1 align="center">Hi 👋, I'm SAMCLAK</h1> 
+<h1 align="center">Hi 👋, I'm FLOURISH</h1> 
 <h3 align="center">Detail-oriented and dedicated student passionate to become a cyber security professional with a focus on penetration testing and ethical hacking. Eager to apply theoretical knowledge gained through courseworks to real life challenges.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cybwithflourish&label=Profile%20views&color=0e75b6&style=flat" alt="cybwithflourish" /> </p> 
