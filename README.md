@@ -24,7 +24,7 @@
 -
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script)](https://github.com/CYBWithFlourish/IP-Sweeper-Script.git)
-> A script written in Bash to scan a range of IP addresses, typically within a specified subnet, to determine which IPs are active and responsive on a network. The primary purpose is to discover live hosts and filter out those that are reachable. The script uses the Internet Control Message Protocol (ICMP), often associated with the ping command, to send a simple network message (ping) to each IP address in the given range..
+> A script written in Bash to scan a range of IP addresses, typically within a specified subnet, to determine which IPs are active and responsive on a network. The primary purpose is to discover live hosts and filter out those that are reachable. The script uses the Internet Control Message Protocol (ICMP), often associated with the ping command, to send a simple network message (ping) to each IP address in the given range.
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
