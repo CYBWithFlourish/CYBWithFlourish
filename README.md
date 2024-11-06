@@ -38,12 +38,22 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="/images/icons8-dart.svg" alt="dart" width="45" height="45"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybwithflourish&show_icons=true&locale=en&layout=compact" alt="cybwithflourish" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybwithflourish&show_icons=true&locale=en&layout=compact" alt="cybwithflourish" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&locale=en" alt="cybwithflourish" /></p>
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&locale=en" alt="cybwithflourish" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybwithflourish&" alt="cybwithflourish" /></p>
 
-<p align="center" src="https://stats.quine.sh/CYBWithFlourish/github?theme=dark" alt="CYBWithFlourish's Github | Stats"></p>
+<!---
+<p align="center" src="https://stats.quine.sh/CYBWithFlourish/github?theme=dark" alt="CYBWithFlourish's Github | Stats">
+</p>
+--->
 
-<p align="center" src="https://quine.sh?utm_source=widgets&utm_campaign=CYBWithFlourish" alt="widget"></p>
+<!---
+<p align="center" src="https://quine.sh?utm_source=widgets&utm_campaign=CYBWithFlourish" alt="widget">
+</p> 
+--->
