@@ -46,6 +46,7 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybwithflourish&show_icons=true&locale=en&layout=compact" alt="cybwithflourish" />
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybwithflourish&layout=compact)
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&locale=en" alt="cybwithflourish" />
