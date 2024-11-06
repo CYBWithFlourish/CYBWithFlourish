@@ -39,10 +39,11 @@
 </p>
 
 <p>
-
 [![CYBWithFlourish's GitHub | Languages](https://stats.quira.sh/CYBWithFlourish/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
+<p/>
 
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybwithflourish&show_icons=true&locale=en&layout=compact" alt="cybwithflourish" />
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybwithflourish&show_icons=true&locale=en&layout=compact" alt="cybwithflourish" />
 </p>
 
 <p>
@@ -51,7 +52,9 @@
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybwithflourish&" alt="cybwithflourish" />
-</p>
+<p/>
 
+<p>
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
+</p>
 
