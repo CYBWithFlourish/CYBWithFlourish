@@ -11,10 +11,12 @@
 
 - 📫 Connect with me:
 
+<p align="center">
 <a href="https://linkedin.com/in/CYBFlourish" target="blank"><img align="center" src="/images/icons8-linkedin.svg" alt="CYBFlourish" height="35" width="45" /></a>
 <a href="https://instagram.com/cybwithflourish" target="blank"><img align="center" src="/images/icons8-instagram.svg" alt="cybwithflourish" height="35" width="45" /></a>
 <a href="https://medium.com/cybwithflourish" target="blank"><img align="center" src="/images/icons8-medium.svg" alt="cybwithflourish" height="35" width="45" /></a>
 <a href="https://dev.to/cybwithflourish" target="blank"><img align="center" src="/images/icons8-dev.svg" alt="cybwithflourish" height="35" width="45" /></a>
+</p>
 
  <!--- **project.samclak@gmail.com** --->
 
@@ -26,11 +28,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="/images/icons8-python.svg" alt="python" width="45" height="45"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="/images/icons8-flutter.svg" alt="flutter" width="45" height="45"/></a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="/images/icons8-dart.svg" alt="dart" width="45" height="45"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="/images/icons8-firebase.svg" alt="firebase" width="45" height="45"/> </a> <a href="https://kali.org/" target="_blank" rel="noreferrer"> <img src="/images/icons8-kali-linux.svg" alt="kali-linux" width="45" height="45"/> </a> </p>
+<p align="center"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="/images/icons8-python.svg" alt="python" width="45" height="45"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="/images/icons8-flutter.svg" alt="flutter" width="45" height="45"/></a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="/images/icons8-dart.svg" alt="dart" width="45" height="45"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="/images/icons8-firebase.svg" alt="firebase" width="45" height="45"/> </a> <a href="https://kali.org/" target="_blank" rel="noreferrer"> <img src="/images/icons8-kali-linux.svg" alt="kali-linux" width="45" height="45"/> </a> 
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybwithflourish&show_icons=true&locale=en&layout=compact" alt="cybwithflourish" /></p>
 
