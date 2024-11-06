@@ -52,3 +52,4 @@
 
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
 
+[![CYBWithFlourish's GitHub | Languages](https://stats.quira.sh/CYBWithFlourish/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
