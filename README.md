@@ -39,6 +39,9 @@
 </p>
 
 <p>
+
+[![CYBWithFlourish's GitHub | Languages](https://stats.quira.sh/CYBWithFlourish/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybwithflourish&show_icons=true&locale=en&layout=compact" alt="cybwithflourish" />
 </p>
 
@@ -52,4 +55,3 @@
 
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
 
-[![CYBWithFlourish's GitHub | Languages](https://stats.quira.sh/CYBWithFlourish/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
