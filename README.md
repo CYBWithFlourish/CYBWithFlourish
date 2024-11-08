@@ -58,11 +58,3 @@
 
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
 
-
-
-<p align="center">
-<a   href="https://opensourcesecurityindex.io/" target="_blank" rel="noopener">
-<img style="width: 283px; height="57px" src="https://opensourcesecurityindex.io/badge.svg" alt="Open Source Security Index - Fastest Growing Open Source Security Projects" width="282" height="56" />
-</a>
-</p>
-
