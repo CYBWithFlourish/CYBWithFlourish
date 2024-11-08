@@ -1,6 +1,6 @@
 <!--- <img align="right" src="/images/icons8-santa-100.png" alt="cybwithflourish" height="50" width="45" /> --->
 
-<p>
+<p align="center">
 <a href="https://opensourcesecurityindex.io/" target="_blank"rel="noopener"
 >
 <img style="width: 282px; height: 56px"  
