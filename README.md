@@ -1,20 +1,9 @@
 <!--- <img align="right" src="/images/icons8-santa-100.png" alt="cybwithflourish" height="50" width="45" /> --->
 
 <p align="center">
-
-<a   href="https://opensourcesecurityindex.io/"
-    target="_blank"
-    rel="noopener"
->
-    <img
-        style="width: 282px; height: 56px"
-        src="https://opensourcesecurityindex.io/badge.svg"
-        alt="Open Source Security Index - Fastest Growing Open Source Security Projects"
-        width="282"
-        height="56"
-    />
+<a   href="https://opensourcesecurityindex.io/" target="_blank" rel="noopener">
+<img style="width: 282px; height="56px" src="https://opensourcesecurityindex.io/badge.svg" alt="Open Source Security Index - Fastest Growing Open Source Security Projects" width="282" height="56" />
 </a>
-
 </p>
 
 <h1 align="center">Hi 👋, I'm FLOURISH</h1> 
