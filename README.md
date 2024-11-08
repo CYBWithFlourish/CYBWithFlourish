@@ -1,18 +1,16 @@
 <!--- <img align="right" src="/images/icons8-santa-100.png" alt="cybwithflourish" height="50" width="45" /> --->
 
-<a
-    href="https://opensourcesecurityindex.io/"
-    target="_blank"
-    rel="noopener"
+<p>
+<a href="https://opensourcesecurityindex.io/" target="_blank"rel="noopener"
 >
-    <img
-        style="width: 282px; height: 56px"
-        src="https://opensourcesecurityindex.io/badge.svg"
+<img style="width: 282px; height: 56px"  
+src="https://opensourcesecurityindex.io/badge.svg"
         alt="Open Source Security Index - Fastest Growing Open Source Security Projects"
         width="282"
         height="56"
     />
 </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm FLOURISH</h1> 
 <h3 align="center">Detail-oriented and dedicated student passionate to become a cyber security professional with a focus on penetration testing and ethical hacking. Eager to apply theoretical knowledge gained through courseworks to real life challenges.</h3>
