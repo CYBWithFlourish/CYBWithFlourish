@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm FLOURISH</h1> 
 <h3 align="left">Detail-oriented and dedicated student passionate to become a cyber security professional with a focus on penetration testing and ethical hacking. Eager to apply theoretical knowledge gained through courseworks to real life challenges.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cybwithflourish&label=Profile%20views&color=0e75b6&style=flat" alt="cybwithflourish" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cybwithflourish&label=Profile%20views&color=0e75b6&style=flat" alt="cybwithflourish" /> </p>
+
+<p align="center">
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/TakSec.svg?style=social&label=Follow%20%400xCYBFlourish)](https://twitter.com/0xCYBFlourish)
+</p> 
 
 <p align="center"> <a href="https://twitter.com/0xcybflourish" target="blank"><img src="https://img.shields.io/twitter/follow/0xcybflourish?logo=twitter&style=for-the-badge" alt="0xcybflourish" /></a> </p>
 
