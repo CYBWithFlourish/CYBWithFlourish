@@ -5,7 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cybwithflourish&label=Profile%20views&color=0e75b6&style=flat" alt="cybwithflourish" /> </p>
 
-<p align="center">
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/TakSec.svg?style=social&label=Follow%20%400xCYBFlourish)](https://twitter.com/0xCYBFlourish)
 </p> 
 
