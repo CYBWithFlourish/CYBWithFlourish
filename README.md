@@ -40,7 +40,7 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="/images/icons8-dart.svg" alt="dart" width="45" height="45"/> </a> 
 </p>
 
-
+<p>
 [![CYBWithFlourish's GitHub | Languages](https://stats.quira.sh/CYBWithFlourish/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
 
 <p>
@@ -54,4 +54,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CYBWithFlourish)](https://git.io/streak-stats)
 
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
+</p>
 
