@@ -46,8 +46,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=dark#gh-dark-mode)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light#gh-light-mode)
 
-[![CYBWithFlourish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cybwithflourish&custom_title=CYBWithFlourish's Github Stats&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![CYBWithFlourish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cybwithflourish&custom_title=CYBWithFlourish's Github Stats&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![CYBWithFlourish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![CYBWithFlourish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![CYBWithFlourish Streaks](http://github-readme-streak-stats.herokuapp.com?user=CYBWithFlourish)](https://git.io/streak-stats)
 
