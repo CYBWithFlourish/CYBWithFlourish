@@ -22,10 +22,8 @@
 
 ### Projects
 -
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&theme=dark#gh-dark-mode-only)](https://github.com/CYBWithFlourish/IP-Sweeper-Script.git#gh-dark-mode-only)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&theme=light#gh-light-mode-only)](https://github.com/CYBWithFlourish/IP-Sweeper-Script.git#gh-light-mode-only)
-
 > A script written in Bash to scan a range of IP addresses, typically within a specified subnet, to determine which IPs are active and responsive on a network. The primary purpose is to discover live hosts and filter out those that are reachable. The script uses the Internet Control Message Protocol (ICMP), often associated with the ping command, to send a simple network message (ping) to each IP address in the given range.
 
 <!-- ### Blogs posts -->
@@ -43,7 +41,8 @@
 </p>
 
 
-[![CYBWithFlourish's GitHub | Languages](https://stats.quira.sh/CYBWithFlourish/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
+[![CYBWithFlourish's GitHub | Languages](https://stats.quira.sh/CYBWithFlourish/languages-over-time?theme=dark#gh-dark-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-dark-mode-only)
+[![CYBWithFlourish's GitHub | Languages](https://stats.quira.sh/CYBWithFlourish/languages-over-time?theme=light#gh-light-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish#gh-light-mode-only)
