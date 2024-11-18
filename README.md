@@ -52,4 +52,5 @@
 
 [![CYBWithFlourish Streaks](http://github-readme-streak-stats.herokuapp.com?user=CYBWithFlourish)](https://git.io/streak-stats)
 
-[![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
+[![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=dark#gh-dark-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-dark-mode-only)
+[![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light#gh-light-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-light-mode-only)
