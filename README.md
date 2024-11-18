@@ -47,6 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish#gh-light-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cybwithflourish)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=dark#gh-dark-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-dark-mode-only)
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light#gh-light-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-light-mode-only)
