@@ -43,8 +43,8 @@
 
 [![CYBWithFlourish's GitHub | Languages](https://stats.quira.sh/CYBWithFlourish/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=dark#gh-dark-mode)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light#gh-light-mode)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light#gh-light-mode-only)
 
 [![CYBWithFlourish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![CYBWithFlourish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
