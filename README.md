@@ -51,10 +51,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&locale=en" alt="cybwithflourish" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybwithflourish&"alt= "cybwithflourish" />
-<p/>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CYBWithFlourish)](https://git.io/streak-stats)
 
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish)
 
