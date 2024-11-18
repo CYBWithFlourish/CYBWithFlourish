@@ -46,7 +46,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish#gh-light-mode-only)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CYBWithFlourish)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cybwithflourish)](https://git.io/streak-stats)
 
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=dark#gh-dark-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-dark-mode-only)
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light#gh-light-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-light-mode-only)
