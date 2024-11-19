@@ -46,8 +46,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish#gh-light-mode-only)
 
-[![CYBWithFlourish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CYBWithFlourish&theme=dark&hide_border=false#gh-dark-mode-only)(https://github-readme-streak-stats.herokuapp.com/?user=CYBWithFlourish#gh-dark-mode-only)
-[![CYBWithFlourish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CYBWithFlourish&theme=light&hide_border=false#gh-light-mode-only)(https://github-readme-streak-stats.herokuapp.com/?user=CYBWithFlourish#gh-light-mode-only)
+[![CYBWithFlourish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CYBWithFlourish&theme=dark&h#gh-dark-mode-only)(https://github-readme-streak-stats.herokuapp.com/?user=CYBWithFlourish#gh-dark-mode-only)
+[![CYBWithFlourish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CYBWithFlourish&theme=light#gh-light-mode-only)(https://github-readme-streak-stats.herokuapp.com/?user=CYBWithFlourish#gh-light-mode-only)
 
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=dark#gh-dark-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-dark-mode-only)
 [![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light#gh-light-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-light-mode-only)
