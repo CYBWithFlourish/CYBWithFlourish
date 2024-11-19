@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://kali.org/" target="_blank" rel="noreferrer"> <img src="/images/icons8-kali-linux.svg" alt="kali-linux" width="45" height="45"/> </a> 
-<a href="##" target="_blank" rel="noreferrer"> <img src="/images/assets/pngs/markdown-dark.png" alt="markdown" width="45" height="45"/> </a> 
+<a href="##" target="_blank" rel="noreferrer"> <img src="/images/assets/pngs/markdown-dark.png" alt="markdown" width="50" height="50"/> </a> 
 </p>
 
 [![CYBWithFlourish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
