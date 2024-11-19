@@ -40,6 +40,8 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="/images/icons8-flutter.svg" alt="flutter" width="45" height="45"/></a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="/images/icons8-dart.svg" alt="dart" width="45" height="45"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="/images/icons8-firebase.svg" alt="firebase" width="45" height="45"/> </a>
+<a href="##" target="_blank" rel="noreferrer"> <img src="/images/assets/icon8/markdown-dark.png" alt="dart" width="45" height="45"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="/images/icons8-firebase.svg" alt="firebase" width="45" height="45"/> </a>
 </p>
 
 <p align="center">
