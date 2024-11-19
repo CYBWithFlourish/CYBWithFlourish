@@ -44,7 +44,6 @@
 
 <p align="center">
 <a href="https://kali.org/" target="_blank" rel="noreferrer"> <img src="/images/icons8-kali-linux.svg" alt="kali-linux" width="45" height="45"/> </a>
-<img src="/images/assets/pngs/markdown-dark.png" alt="Markdown" />
 </p>
 
 
