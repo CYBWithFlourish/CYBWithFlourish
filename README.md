@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/cybflourish/" target="blank"><img align="center" src="/images/icons8-linkedin.svg" alt="CYBFlourish" height="35" width="45" /></a>
 <a href="https://instagram.com/cybflourish/" target="blank"><img align="center" src="/images/icons8-instagram.svg" alt="cybflourish" height="35" width="45" /></a>
-<a href="https://medium.com/cybwithflourish/" target="blank"><img align="center" src="/images/icons8-medium.svg" alt="cybwithflourish" height="35" width="45" /></a>
+<a href="https://medium.com/cybwithflourish/" target="blank"><img align="center" src="/images/icons/icons8/icons8-medium.svg" alt="cybwithflourish" height="35" width="45" /></a>
 <a href="https://dev.to/cybwithflourish/" target="blank"><img align="center" src="/images/icons8-dev.svg" alt="cybwithflourish" height="35" width="45" /></a>
 </p>
 
