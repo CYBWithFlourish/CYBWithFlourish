@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/0xcybflourish" target="blank"><img src="https://img.shields.io/twitter/follow/0xcybflourish?logo=twitter&style=for-the-badge" alt="0xcybflourish" /></a> </p>
 
-- 🌱 I’m currently learning ** **
+- 🌱 I’m currently learning ` Rust 🦀 and Anchor ⚓ 
 
 - 📫 Connect with me:
 
