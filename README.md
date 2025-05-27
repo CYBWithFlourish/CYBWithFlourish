@@ -87,11 +87,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=dar"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=lightt"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=light"
     />
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light"
