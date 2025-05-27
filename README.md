@@ -135,7 +135,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light&hide_border=true"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light&hide_border=true" <!-- Fallback -->
+      src="YOUR_LIGHT_MODE_IMAGE_URL_FOR_THIS_STAT"
       alt="CYBWithFlourish's Top Languages"
     />
   </picture>
