@@ -56,11 +56,13 @@
 <br/>
 
 <p align="center"> About 🔭 Me </p>
+
 <p align="center">🌱 I’m currently learning ` Rust 🦀 and Anchor ⚓</p> 
 
  <!--- **project.samclak@gmail.com** --->
  
 <p align="center">Projects</p>
+
 <p align="center"
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=dark#gh-dark-mode-only)](https://github.com/CYBWithFlourish/IP-Sweeper-Script.git#gh-dark-mode-only)
