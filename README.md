@@ -113,30 +113,64 @@
     <a href="https://dart.dev" target="blank"
     ><img
         align="center"
-        src="dart.svg"
+        src="/images/dart.svg"
         alt="Dart Programming Language"
         height="30"
         width="40"
     /></a>
 </p>
+<br/>
+<br/>
+
+## <p align="center"> 📈 GitHub Stats 📉</p>
 
 <p align="center">
- 
-[![CYBWithFlourish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![CYBWithFlourish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cybwithflourish&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-</P>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=dark&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light&hide_border=true"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light&hide_border=true" <!-- Fallback -->
+      alt="CYBWithFlourish's Top Languages"
+    />
+  </picture>
+</p>
 
 <p align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish#gh-light-mode-only)
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=cybwithflourish&locale=en&layout=compact&theme=dark&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=cybwithflourish&locale=en&layout=compact&theme=light&hide_border=true"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=cybwithflourish&locale=en&layout=compact&theme=light&hide_border=true"
+      alt="CYBWithFlourish's Github Streak"
+    />
+  </picture>
+</p>
 
 <p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cybwithflourish&theme=dark#gh-dark-theme-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cybwithflourish&theme=light#gh-light-theme-only)](https://git.io/streak-stats#gh-light-mode-only)
-
-<p align="center">
-
-[![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=dark#gh-dark-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-dark-mode-only)
-[![CYBWithFlourish's GitHub | Stats](https://stats.quira.sh/CYBWithFlourish/github?theme=light#gh-light-mode-only)](https://quira.sh?utm_source=widgets&utm_campaign=CYBWithFlourish#gh-light-mode-only)
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=cybwithflourish&locale=en&show_icons=true&theme=dark&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=cybwithflourish&locale=en&show_icons=true&theme=light&hide_border=true"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=cybwithflourish&locale=en&show_icons=true&theme=light&hide_border=true"
+      alt="CYBWithFlourish's Github Streak"
+    />
+  </picture>
+</p>
