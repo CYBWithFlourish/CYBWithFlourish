@@ -63,16 +63,39 @@
  
 <p align="center">Projects</p>
 
-<p align="center"
- 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=dark#gh-dark-mode-only)](https://github.com/CYBWithFlourish/IP-Sweeper-Script.git#gh-dark-mode-only)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light#gh-light-mode-only)](https://github.com/CYBWithFlourish/IP-Sweeper-Script.git#gh-light-mode-only "> A script written in Bash to scan a range of IP addresses, typically within a specified subnet, to determine which IPs are active and responsive on a network. The primary purpose is to discover live hosts and filter out those that are reachable. The script uses the Internet Control Message Protocol (ICMP), often associated with the ping command, to send a simple network message (ping) to each IP address in the given range.")
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light"
+      alt="> A script written in Bash to scan a range of IP addresses, typically within a specified subnet, to determine which IPs are active and responsive on a network. The primary purpose is to discover live hosts and filter out those that are reachable. The script uses the Internet Control Message Protocol (ICMP), often associated with the ping command, to send a simple network message (ping) to each IP address in the given range."
+    />
+  </picture>
+</p>
 
-<p align="center"
- 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer-&show_owner=false&theme=dark#gh-dark-mode-only)](https://github.com/CYBWithFlourish/FileOrganizer-.git#gh-dark-mode-only)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer-&show_owner=false&theme=light#gh-light-mode-only)](https://github.com/CYBWithFlourish/FileOrganizer-.git#gh-light-mode-only)
-
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer-&show_owner=false&theme=dar"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer-&show_owner=false&theme=lightt"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light"
+      alt=""
+    />
+  </picture>
+</p>
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
