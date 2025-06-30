@@ -124,7 +124,7 @@
     <a href="studio.firebase.google.com"
     ><img
         align="center"
-        src="/images/instagram.svg"
+        src="/images/firebasestudio.svg"
         alt="Google's Firebase studio"
         height="30"
         width="40"
