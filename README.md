@@ -104,9 +104,19 @@ href="https://linkedin.com/in/cybflourish/" target="blank"
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
-
 <p align="center">
-    <a href="https://python.prg" target="blank"
+    <a href="https://Kali.org"
+target="blank"
+    >img
+       align="center"
+       src="/images/kali.png"
+       alt="Kali"
+       height="30"
+       weight="40"
+    /></a>
+</p>
+<p align="center">
+    <a href="https://python.org" target="blank"
     ><img
         align="center"
         src="/images/python.svg"
