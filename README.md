@@ -26,32 +26,32 @@ href="https://linkedin.com/in/cybflourish/" target="blank"
         align="center"
         src="/images/linkedin.svg"
         alt="cyblourish"
-        height="40"
-        width="40"
+        height="25"
+        width="30"
     /></a>
     <a href="http://instagram.com/cybwithflourish/"
     ><img
         align="center"
         src="/images/instagram.svg"
         alt="cybwithflourish"
-        height="30"
-        width="40"
+        height="25"
+        width="30"
     /></a>
     <a href="https://medium.com/@cybwithflourish/" target="blank"
     ><img
         align="center"
         src="/images/medium.svg"
         alt="cybwithflourish"
-        height="30"
-        width="40"
+        height="25"
+        width="30"
     /></a>
     <a href="https://dev.to/cybwithflourish/" target="blank"
     ><img
         align="center"
         src="/images/dev-dot-to.svg"
         alt="cybwithlourish"
-        height="30"
-        width="40"
+        height="25"
+        width="30"
     /></a>
 </p>
 <br/>
