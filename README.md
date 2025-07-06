@@ -20,12 +20,13 @@
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/cybflourish/" target="blank"
+    <a
+href="https://linkedin.com/in/cybflourish/" target="blank"
     ><img
         align="center"
         src="/images/linkedin.svg"
         alt="cyblourish"
-        height="30"
+        height="40"
         width="40"
     /></a>
     <a href="http://instagram.com/cybwithflourish/"
