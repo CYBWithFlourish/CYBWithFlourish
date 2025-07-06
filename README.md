@@ -1,4 +1,12 @@
 [//]: <img align="right" src="/images/icons8-santa-100.png" alt="cybwithflourish" height="50" width="45" />
+    <!--- <a href="https://github.com/CYBWithFlourish" target="blank"
+    ><img
+        align="center"
+        src="/images/github.svg"
+        alt="cybwithflourish"
+        height="30"
+        width="40"
+    /></a> --->
 
 <h1 align="center">Hi 👋, I'm FLOURISH</h1>
 
@@ -20,14 +28,6 @@
         height="30"
         width="40"
     /></a>
-    <!--- <a href="https://github.com/CYBWithFlourish" target="blank"
-    ><img
-        align="center"
-        src="/images/github.svg"
-        alt="cybwithflourish"
-        height="30"
-        width="40"
-    /></a> --->
     <a href="http://instagram.com/cybwithflourish/"
     ><img
         align="center"
