@@ -105,16 +105,14 @@ href="https://linkedin.com/in/cybflourish/" target="blank"
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://Kali.org"
-target="blank"
-    >img
-       align="center"
-       src="/images/kali.png"
-       alt="Kali"
-       height="30"
-       weight="40"
+    <a href="https://Kali.org" target="blank"
+    ><img
+        align="center"
+        src="/images/kali.png"
+        alt="Python"
+        height="30"
+        width="40"
     /></a>
-</p>
 <p align="center">
     <a href="https://python.org" target="blank"
     ><img
