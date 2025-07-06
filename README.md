@@ -20,7 +20,7 @@
         height="30"
         width="40"
     /></a>
-    <a href="https://github.com/CYBWithFlourish" target="blank"
+    [//]: <a href="https://github.com/CYBWithFlourish" target="blank"
     ><img
         align="center"
         src="/images/github.svg"
