@@ -20,14 +20,14 @@
         height="30"
         width="40"
     /></a>
-    [//]: <a href="https://github.com/CYBWithFlourish" target="blank"
+    <!--- <a href="https://github.com/CYBWithFlourish" target="blank"
     ><img
         align="center"
         src="/images/github.svg"
         alt="cybwithflourish"
         height="30"
         width="40"
-    /></a>
+    /></a> --->
     <a href="http://instagram.com/cybwithflourish/"
     ><img
         align="center"
