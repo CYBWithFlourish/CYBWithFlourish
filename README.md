@@ -1,4 +1,11 @@
 [//]: <img align="right" src="/images/icons8-santa-100.png" alt="cybwithflourish" height="50" width="45" />
+<!--- [![CYBWithFlourish](https://github.com/CYBWithFlourish.png?size=60)](https://github.com/CYBWithFlourish "CYBWithFlourish's on GitHub") --->
+
+<p align="center">
+<a href="https://github.com/CYBWithFlourish" title="CYBWithFlourish's on GitHub">
+    <img src="https://github.com/CYBWithFlourish.png?size=100" alt="CYBWithFlourish" style="border-radius: 60%; width: 70px; height: 70px;">
+</a>
+</p>
 
 <h1 align="center">Hi 👋, I'm FLOURISH</h1>
 
