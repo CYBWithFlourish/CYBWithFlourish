@@ -1,16 +1,8 @@
 [//]: <img align="right" src="/images/icons8-santa-100.png" alt="cybwithflourish" height="50" width="45" />
-<!--- <a href="https://github.com/CYBWithFlourish" target="blank"
-    ><img
-        align="center"
-        src="/images/github.svg"
-        alt="cybwithflourish"
-        height="30"
-        width="40"
-    /></a> --->
 
 <h1 align="center">Hi 👋, I'm FLOURISH</h1>
 
-<h3 align="center">Cyber Security | Purple 🟣 teaming | Aspiring Ethical Hacker, Pen tester, 🐞 bounter | Kali, Python, Ai, | Web3</h3>
+<h3 align="center">Cyber Security | Purple 🟣 teaming | Aspiring Ethical Hacker, Pen tester, 🐞 bounter | Vibe Coder | Kali, Python, AI, | Web3</h3>
 
 <p align="center">
     <img
@@ -20,13 +12,20 @@
 </p>
 
 <p align="center">
-    <a
-href="https://linkedin.com/in/cybflourish/" target="blank"
+    <a href="https://linkedin.com/in/cybflourish/" target="blank"
     ><img
         align="center"
         src="/images/linkedin.svg"
         alt="cyblourish"
-        height="35"
+        height="30"
+        width="40"
+    /></a>
+    <a href="https://github.com/CYBWithFlourish" target="blank"
+    ><img
+        align="center"
+        src="/images/github.svg"
+        alt="cybwithflourish"
+        height="30"
         width="40"
     /></a>
     <a href="http://instagram.com/cybwithflourish/"
@@ -34,7 +33,7 @@ href="https://linkedin.com/in/cybflourish/" target="blank"
         align="center"
         src="/images/instagram.svg"
         alt="cybwithflourish"
-        height="35"
+        height="30"
         width="40"
     /></a>
     <a href="https://medium.com/@cybwithflourish/" target="blank"
@@ -42,7 +41,7 @@ href="https://linkedin.com/in/cybflourish/" target="blank"
         align="center"
         src="/images/medium.svg"
         alt="cybwithflourish"
-        height="35"
+        height="30"
         width="40"
     /></a>
     <a href="https://dev.to/cybwithflourish/" target="blank"
@@ -50,7 +49,7 @@ href="https://linkedin.com/in/cybflourish/" target="blank"
         align="center"
         src="/images/dev-dot-to.svg"
         alt="cybwithlourish"
-        height="35"
+        height="30"
         width="40"
     /></a>
 </p>
@@ -58,8 +57,8 @@ href="https://linkedin.com/in/cybflourish/" target="blank"
 
 <p align="center"> About 🔭 Me </p>
 
-<p align="center">🌱 I’m currently learning ` Rust 🦀 and Anchor ⚓</p> 
-
+<p align="center">🌱 I’m currently learning `Sui 💧 and the Move 📦 language</p> 
+<!--- !` Rust 🦀 and Anchor ⚓ --->
  <!--- **project.samclak@gmail.com** --->
  
 <p align="center">Projects</p>
@@ -95,7 +94,26 @@ href="https://linkedin.com/in/cybflourish/" target="blank"
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=light"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=light"
+      alt=""
+    />
+  </picture>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/CYBWithFlourish/VSCode-Ext-Manager" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=light"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=light"
       alt=""
     />
   </picture>
@@ -104,17 +122,9 @@ href="https://linkedin.com/in/cybflourish/" target="blank"
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
+
 <p align="center">
-    <a href="https://Kali.org" target="blank"
-    ><img
-        align="center"
-        src="/images/kali.png"
-        alt="Python"
-        height="30"
-        width="40"
-    /></a>
-<p align="center">
-    <a href="https://python.org" target="blank"
+    <a href="https://python.prg" target="blank"
     ><img
         align="center"
         src="/images/python.svg"
@@ -210,3 +220,14 @@ href="https://linkedin.com/in/cybflourish/" target="blank"
     />
   </picture>
 </p>
+
+<!--- <div align="center">
+  <h3>Familiar Blockchains</h3>
+  <p>
+    <a href="https://algorand.co" target="_blank" rel="noreferrer"><img src="./assets/algorand.png" width="36" height="36" alt="Algorand"></a>
+    &nbsp;
+    <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="./assets/solana.svg" width="36" height="36" alt="Solana"></a>
+    &nbsp;
+    <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
+  </p>
+</div> --->
