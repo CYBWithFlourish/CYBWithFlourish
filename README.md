@@ -208,6 +208,14 @@
      height="30"
      width="40"
 /></a>
+<a href="https://www.markdownguide.org/" target="_blank"
+><img
+     align="center"
+     src="/images/markdown.svg"
+     alt="Markdown"
+     height="30"
+     width="40"
+/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"
 ><img
      align="center"
@@ -269,19 +277,19 @@
      height="30"
      width="40"
 /></a>
+<a href="https://www.algorand.co" target="_blank"
+><img
+     align="center"
+     src="/images/algorand.svg"
+     alt="Algorand"
+     height="30"
+     width="40"
+/></a>
 <a href="https://solana.com" target="_blank"
 ><img
      align="center"
      src="/images/solana.svg"
      alt="Solana"
-     height="30"
-     width="40"
-/></a>
-<a href="https://www.algorand.com" target="_blank"
-><img
-     align="center"
-     src="/images/algorand.svg"
-     alt="Algorand"
      height="30"
      width="40"
 /></a>
@@ -472,6 +480,7 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
 
 
 
