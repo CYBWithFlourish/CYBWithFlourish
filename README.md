@@ -304,7 +304,7 @@
      src="/images/chrome.svg"
      alt="Google Chrome"
      height="30"
-     weight="40"
+     width="40"
 /></a>
 <a href="https://code.visualstudio.com" target="_blank"
 ><img
@@ -404,11 +404,12 @@
      height="30"
      width="40"
 /></a>
-</p>
-
+</p>    
+      
 <p align="center"> 📈 GitHub Stats 📉</p>
 
 <p align="center">
+  <!-- GitHub Top Languages Card -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -419,42 +420,44 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light&hide_border=true"
     />
     <img
-      src="YOUR_LIGHT_MODE_IMAGE_URL_FOR_THIS_STAT"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light&hide_border=true"
       alt="CYBWithFlourish's Top Languages"
     />
   </picture>
 </p>
 
 <p align="center">
+  <!-- GitHub Stats Card -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=cybwithflourish&locale=en&layout=compact&theme=dark&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=CYBWithFlourish&locale=en&show_icons=true&theme=dark&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=cybwithflourish&locale=en&layout=compact&theme=light&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=CYBWithFlourish&locale=en&show_icons=true&theme=light&hide_border=true"
     />
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=cybwithflourish&locale=en&layout=compact&theme=light&hide_border=true"
-      alt="CYBWithFlourish's Github Streak"
+      src="https://github-readme-stats.vercel.app/api?username=CYBWithFlourish&locale=en&show_icons=true&theme=light&hide_border=true"
+      alt="CYBWithFlourish's GitHub Stats"
     />
   </picture>
 </p>
 
 <p align="center">
+  <!-- GitHub Streak Stats -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=cybwithflourish&locale=en&show_icons=true&theme=dark&hide_border=true"
+      srcset="https://streak-stats.demolab.com/?user=CYBWithFlourish&locale=en&theme=dark&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=cybwithflourish&locale=en&show_icons=true&theme=light&hide_border=true"
+      srcset="https://streak-stats.demolab.com/?user=CYBWithFlourish&locale=en&theme=light&hide_border=true"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=cybwithflourish&locale=en&show_icons=true&theme=light&hide_border=true"
-      alt="CYBWithFlourish's Github Streak"
+      src="https://streak-stats.demolab.com/?user=CYBWithFlourish&locale=en&theme=light&hide_border=true"
+      alt="CYBWithFlourish's GitHub Streak"
     />
   </picture>
 </p>
@@ -469,6 +472,9 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
+
+
 
 
 
