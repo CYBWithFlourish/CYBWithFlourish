@@ -375,19 +375,19 @@
 <h3 align="center">Operating Systems</h3>
 
 <p align="center">
-    <a href="https://linux.org" target="_blank"
-><img
-     align="center"
-     src="/images/linux.svg"
-     alt="Linux"
-     height="30"
-     width="40"
-/></a>
-<a href="https://windows.com" target="_blank"
+    <a href="https://windows.com" target="_blank"
 ><img
      align="center"
      src="/images/windows.svg"
      alt="Windows"
+     height="30"
+     width="40"
+/></a>
+<a href="https://linux.org" target="_blank"
+><img
+     align="center"
+     src="/images/linux.svg"
+     alt="Linux"
      height="30"
      width="40"
 /></a>
@@ -488,3 +488,5 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
+
