@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm FLOURISH</h1>
 
-<h3 align="center">Cyber Security | Purple 🟣 teaming | Aspiring Ethical Hacker, Pen tester, 🐞 bounter | Vibe Coder | Kali, Python, AI, | Web3</h3>
+<h3 align="center">STATS STUDENT​ \ CYBER SECURITY | ASPIRING ETHICAL HACKER, PEN TESTER, 🪲 BOUNTER | LINUX(KALI), AI | WEB3 ​\ VIBE CODER</h3>
 
 <p align="center">
     <img
@@ -75,14 +75,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=dark"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light"
       alt="> A script written in Bash to scan a range of IP addresses, typically within a specified subnet, to determine which IPs are active and responsive on a network. The primary purpose is to discover live hosts and filter out those that are reachable. The script uses the Internet Control Message Protocol (ICMP), often associated with the ping command, to send a simple network message (ping) to each IP address in the given range."
     />
   </picture>
@@ -94,14 +94,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=dark"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=light"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=light"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=light"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=light"
       alt=""
     />
   </picture>
@@ -113,32 +113,33 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=dark"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=light"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=light"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=light"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=light"
       alt=""
     />
   </picture>
     </a>
 </p>
+
 <p align="center">
     <a href="https://github.com/CYBWithFlourish/GraphqlNomad" target="_blank" rel="noopener noreferrer">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=GraphqlNomad&show_owner=false&theme=dark"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=GraphqlNomad&show_owner=false&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=GraphqlNomad&show_owner=false&theme=light"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=GraphqlNomad&show_owner=false&theme=light"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=GraphqlNomad&show_owner=false&theme=light"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CYBWithFlourish&repo=GraphqlNomad&show_owner=false&theme=light"
       alt=""
     />
   </picture>
@@ -401,7 +402,7 @@
      height="30"
      width="40"
 /></a>
-<a href="https://linux.org" target="_blank"
+<a href="https://kernel.org" target="_blank"
 ><img
      align="center"
      src="/images/linux.svg"
@@ -447,14 +448,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=dark&hide_border=true"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=dark&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light&hide_border=true"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light&hide_border=true"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light&hide_border=true"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CYBWithFlourish&locale=en&layout=compact&theme=light&hide_border=true"
       alt="CYBWithFlourish's Top Languages"
     />
   </picture>
@@ -465,14 +466,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=CYBWithFlourish&locale=en&show_icons=true&theme=dark&hide_border=true"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=CYBWithFlourish&locale=en&show_icons=true&theme=dark&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=CYBWithFlourish&locale=en&show_icons=true&theme=light&hide_border=true"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=CYBWithFlourish&locale=en&show_icons=true&theme=light&hide_border=true"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=CYBWithFlourish&locale=en&show_icons=true&theme=light&hide_border=true"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=CYBWithFlourish&locale=en&show_icons=true&theme=light&hide_border=true"
       alt="CYBWithFlourish's GitHub Stats"
     />
   </picture>
@@ -506,5 +507,3 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
-
-
